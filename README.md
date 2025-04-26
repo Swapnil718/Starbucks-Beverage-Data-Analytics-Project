@@ -46,6 +46,12 @@ The project covers end-to-end data cleaning, exploratory data analysis (EDA), vi
 - Significant positive correlation between sugar content and calories.
 - Brewed coffee and espresso drinks have high caffeine but low calorie count.
 - Business recommendation to promote healthier, low-sugar options.
+  
+---
+## 🗂️ Dataset Source
+- Dataset taken from Kaggle:  
+  [Starbucks Menu Dataset on Kaggle](https://www.kaggle.com/code/henryshan/starbucks-visualization/input)  
+  Credit to [Henry Shan](https://www.kaggle.com/henryshan) for providing the original data.
 
 ---
 ## 📬 Connect with Me
