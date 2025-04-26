@@ -17,7 +17,7 @@ The project covers end-to-end data cleaning, exploratory data analysis (EDA), vi
 - ├── Starbucks.csv - Raw data 
 - ├── starbucks_cleaned.csv - 
 - ├── Starbucks_EDA.ipynb 
-- ├── tableau_dashboard 
+- ├── tableau_dashboard.PNJ 
 - ├── Starbucks Beverage Dashboard.twbx 
 - ├── README.md
 ---
