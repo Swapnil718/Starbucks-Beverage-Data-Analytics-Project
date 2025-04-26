@@ -21,6 +21,10 @@ The project covers end-to-end data cleaning, exploratory data analysis (EDA), vi
 - ├── README.md
 ---
 
+## 📸 Dashboard Preview
+> *![image](https://github.com/user-attachments/assets/6538212d-5fdd-4021-8dba-d7ed50f2b5ad)
+*
+---
 ## 📊 Key Highlights
 - Cleaned and prepared Starbucks beverage dataset for analysis.
 - Explored nutritional attributes like calories, sugar, caffeine, and fat content.
@@ -43,6 +47,9 @@ The project covers end-to-end data cleaning, exploratory data analysis (EDA), vi
 - Business recommendation to promote healthier, low-sugar options.
 
 ---
-## 📸 Dashboard Preview
-> *![image](https://github.com/user-attachments/assets/6538212d-5fdd-4021-8dba-d7ed50f2b5ad)
-*
+## 📬 Connect with Me
+
+- `GitHub`: Swapnil718 https://github.com/Swapnil718
+- `LinkedIn`: Swapnil Yadav https://www.linkedin.com/in/swapnil-yadav-dataanalyst/
+
+---
