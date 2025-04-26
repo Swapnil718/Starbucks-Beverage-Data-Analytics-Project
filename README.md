@@ -13,12 +13,12 @@ The project covers end-to-end data cleaning, exploratory data analysis (EDA), vi
 - **CSV Dataset (Starbucks Menu Data)**
 ---
 ## 📂 Project Structure
--├── Starbucks.csv - Raw data 
--├── starbucks_cleaned.csv - 
--├── Starbucks_EDA.ipynb 
--├── tableau_dashboard 
--├── Starbucks Beverage Dashboard.twbx 
--├── README.md
+- ├── Starbucks.csv - Raw data 
+- ├── starbucks_cleaned.csv - 
+- ├── Starbucks_EDA.ipynb 
+- ├── tableau_dashboard 
+- ├── Starbucks Beverage Dashboard.twbx 
+- ├── README.md
 ---
 
 ## 📊 Key Highlights
