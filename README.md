@@ -1,4 +1,5 @@
 # Starbucks Data Analytics Dashboard 🚀
+![starbucks-logo-png-transparent](https://github.com/user-attachments/assets/dbf66737-3acb-4a25-a6f3-56a15640a45a)
 
 ## 📋 Project Overview
 This project explores the Starbucks beverage menu using a combination of Python (Pandas, Matplotlib, Seaborn) and Tableau to uncover actionable business insights and health trends.  
